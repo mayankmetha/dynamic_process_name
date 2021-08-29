@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dynamic Process Name</string>
+    <string name="change_process_name">Change Process Name</string>
+</resources>
